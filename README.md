@@ -4,16 +4,14 @@
 <h3 align="center">🤖 AI & ML Researcher | Full-Stack Developer | Sleep Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="coding" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="coding" width="400"/>
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Rudra-vyas&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Rudra-vyas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="https://komarev.com/ghpvc/?username=hr810004&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=hr810004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   </a>
 </p>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -29,10 +27,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rudra-vyas/" target="_blank">
+  <a href="https://www.linkedin.com/in/Rudravyas233/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://github.com/Rudra-vyas" target="_blank">
+  <a href="https://github.com/Rudravyas233" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/>
   </a>
 </p>
@@ -63,32 +61,34 @@
 
 * **Apneatic Eye**
   A patented, non-invasive eye mask for real-time sleep apnea detection using PPG and biomarker analysis.
-  [Research & Code](https://github.com/Rudra-vyas/Apneatic-Eye)
+  [Research & Code](https://github.com/Rudravyas233/Apneatic-Eye)
 
 * **Sleep Stage Classification**
   End-to-end deep-learning pipeline (CNN + TCN) for pediatric OSA detection on the CHAT dataset, including explainability with Grad-CAM & SHAP.
-  [Code & Demo](https://github.com/Rudra-vyas/SleepPPG-Net)
+  [Code & Demo](https://github.com/Rudravyas233/SleepPPG-Net)
 
 * **Plant Disease Detection**
   CNN in TensorFlow achieving 95–98% accuracy on 38 disease classes using advanced augmentations.
-  [GitHub](https://github.com/Rudra-vyas/Plant-Disease-Detection)
+  [GitHub](https://github.com/Rudravyas233/Plant-Disease-Detection)
 
 * **Autonomous Lunar Lander Agent**
   Reinforcement learning DQN implemented in PyTorch to land a lunar module with average scores >300.
-  [Repo](https://github.com/Rudra-vyas/LunarLander-DQN)
+  [Repo](https://github.com/Rudravyas233/LunarLander-DQN)
 
 * **Full-Stack Portfolio**
   React & Express web application showcasing projects, resume, and contact forms.
-  [Live Demo & Code](https://github.com/Rudra-vyas/Portfolio)
+  [Live Demo & Code](https://github.com/Rudravyas233/Portfolio)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-vyas&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Rudra-vyas&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudravyas233&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Rudravyas233&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudravyas233&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
+
 
 ---
 
