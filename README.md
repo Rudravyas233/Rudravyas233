@@ -74,7 +74,7 @@
 
 * **Autonomous Lunar Lander Agent**
   Reinforcement learning DQN implemented in PyTorch to land a lunar module with average scores >300.
-  [Repo]([https://github.com/Rudravyas233/LunarLander-DQN](https://github.com/Rudravyas233/lunarlander-dqn-agent))
+  [Repo](https://github.com/Rudravyas233/lunarlander-dqn-agent)
 
 
 ---
