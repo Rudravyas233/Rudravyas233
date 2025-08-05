@@ -59,10 +59,6 @@
 
 ## 📂 Featured Projects
 
-* **Apneatic Eye**
-  A patented, non-invasive eye mask for real-time sleep apnea detection using PPG and biomarker analysis.
-  [Research & Code](https://github.com/Rudravyas233/Apneatic-Eye)
-
 * **Sleep Stage Classification**
   End-to-end deep-learning pipeline (CNN + TCN) for pediatric OSA detection on the CHAT dataset, including explainability with Grad-CAM & SHAP.
   [Code & Demo](https://github.com/Rudravyas233/Automated_Sleep_Stage_Classification_Using_ML)
@@ -76,6 +72,9 @@
   Reinforcement learning DQN implemented in PyTorch to land a lunar module with average scores >300.
   [Repo](https://github.com/Rudravyas233/lunarlander-dqn-agent)
 
+* **Apneatic Eye**
+  A patented, non-invasive eye mask for real-time sleep apnea detection using PPG and biomarker analysis.
+  [Onging Research]
 
 ---
 
