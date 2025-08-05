@@ -27,7 +27,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Rudravyas233/" target="_blank">
+  <a href="[https://www.linkedin.com/in/Rudravyas233/](https://www.linkedin.com/in/rudravyas4105/]" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://github.com/Rudravyas233" target="_blank">
@@ -65,19 +65,17 @@
 
 * **Sleep Stage Classification**
   End-to-end deep-learning pipeline (CNN + TCN) for pediatric OSA detection on the CHAT dataset, including explainability with Grad-CAM & SHAP.
-  [Code & Demo](https://github.com/Rudravyas233/SleepPPG-Net)
+  [Code & Demo]([https://github.com/Rudravyas233/SleepPPG-Net](https://github.com/Rudravyas233/Automated_Sleep_Stage_Classification_Using_ML))
 
 * **Plant Disease Detection**
   CNN in TensorFlow achieving 95–98% accuracy on 38 disease classes using advanced augmentations.
-  [GitHub](https://github.com/Rudravyas233/Plant-Disease-Detection)
+  [GitHub](https://github.com/Rudravyas233/plant-disease-detection-app)
+  [LIVE](https://plant-disease-detection-app-tzwc.onrender.com/)
 
 * **Autonomous Lunar Lander Agent**
   Reinforcement learning DQN implemented in PyTorch to land a lunar module with average scores >300.
-  [Repo](https://github.com/Rudravyas233/LunarLander-DQN)
+  [Repo]([https://github.com/Rudravyas233/LunarLander-DQN](https://github.com/Rudravyas233/lunarlander-dqn-agent))
 
-* **Full-Stack Portfolio**
-  React & Express web application showcasing projects, resume, and contact forms.
-  [Live Demo & Code](https://github.com/Rudravyas233/Portfolio)
 
 ---
 
