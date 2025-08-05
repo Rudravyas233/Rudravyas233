@@ -65,7 +65,7 @@
 
 * **Sleep Stage Classification**
   End-to-end deep-learning pipeline (CNN + TCN) for pediatric OSA detection on the CHAT dataset, including explainability with Grad-CAM & SHAP.
-  [Code & Demo]([https://github.com/Rudravyas233/SleepPPG-Net](https://github.com/Rudravyas233/Automated_Sleep_Stage_Classification_Using_ML))
+  [Code & Demo](https://github.com/Rudravyas233/Automated_Sleep_Stage_Classification_Using_ML)
 
 * **Plant Disease Detection**
   CNN in TensorFlow achieving 95–98% accuracy on 38 disease classes using advanced augmentations.
